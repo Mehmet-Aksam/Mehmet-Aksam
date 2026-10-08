@@ -35,7 +35,7 @@ Kotlin ve Android Studio kullanarak geliştirdiğim, ders notlarının ve AGNO'n
 - Web güvenliği
 - Siber güvenlik temelleri
 - Kotlin ve Android geliştirme
-- İngilizce
+- İngilizce b2 seviye 
 
 ## 🎯 Hedefim
 
